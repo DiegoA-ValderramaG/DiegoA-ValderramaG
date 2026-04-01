@@ -1,5 +1,21 @@
-## Hi there 👋
----
+About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+----
+
+🔭 Full Stack Developer passionate about building modern, scalable, and efficient web solutions. My core expertise lies in the Next.js and Tailwind CSS ecosystem.
+
+🌱 Currently, I am focused on exploring emerging technologies and refining my skills in high-performance web development.
+
+🛠️ I enjoy tackling technical challenges, developing creative software solutions, and building projects that deliver real value to users.
+
+💼 I am readily available for consultations and freelance opportunities. If you have a project in mind, let’s connect! <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+💡 I am always open to discussing new ideas, collaborating on interesting projects, or just having a chat about technology.
+
+✉️ You can shoot me an email at [Your Email Here]. I'll try to respond as soon as I can!
+
+<br>
+
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
@@ -16,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode" />
   </a>
 </p>
 
