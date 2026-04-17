@@ -7,7 +7,7 @@ About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 🛠️ I enjoy tackling technical challenges, developing creative software solutions, and building projects that deliver real value to users.
 
-💼 I am readily available for consultations and freelance opportunities. If you have a project in mind, let’s connect! <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+💼 I am readily available for consultations and freelance opportunities. If you have a project in mind, let’s connect! 
 
 💡 I am always open to discussing new ideas, collaborating on interesting projects, or just having a chat about technology.
 
